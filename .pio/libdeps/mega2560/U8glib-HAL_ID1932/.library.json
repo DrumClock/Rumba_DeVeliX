@@ -1,0 +1,80 @@
+{
+    "description": "Unofficial repository for combined U8G and U8Glib-ARM with HAL extensions", 
+    "repository": {
+        "url": "https://github.com/MarlinFirmware/U8glib-HAL.git", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "asrmicro650x", 
+        "atmelavr", 
+        "atmelmegaavr", 
+        "atmelsam", 
+        "espressif32", 
+        "espressif8266", 
+        "freescalekinetis", 
+        "gd32v", 
+        "infineonxmc", 
+        "intel_arc32", 
+        "kendryte210", 
+        "linux_arm", 
+        "maxim32", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "nuclei", 
+        "nxpimxrt", 
+        "nxplpc", 
+        "riscv_gap", 
+        "shakti", 
+        "sifive", 
+        "siliconlabsefm32", 
+        "ststm32", 
+        "ststm8", 
+        "teensy", 
+        "timsp430", 
+        "titiva", 
+        "wiznet7500"
+    ], 
+    "frameworks": [
+        "arduino", 
+        "cmsis", 
+        "DELETED", 
+        "esp8266-nonos-sdk", 
+        "esp8266-rtos-sdk", 
+        "espidf", 
+        "freedom-e-sdk", 
+        "freertos", 
+        "gd32vf103-sdk", 
+        "kendryte-freertos-sdk", 
+        "kendryte-standalone-sdk", 
+        "libopencm3", 
+        "mbed", 
+        "nuclei-sdk", 
+        "pulp-os", 
+        "pumbaa", 
+        "shakti-sdk", 
+        "simba", 
+        "spl", 
+        "stm32cube", 
+        "tizenrt", 
+        "wiringpi", 
+        "zephyr"
+    ], 
+    "version": "0.4.1", 
+    "authors": [
+        {
+            "maintainer": false, 
+            "name": "Oliver Kraus", 
+            "url": null, 
+            "email": "olikraus@gmail.com"
+        }
+    ], 
+    "keywords": [
+        "u8g", 
+        "hal", 
+        "arm", 
+        "u8glib"
+    ], 
+    "id": 1932, 
+    "name": "U8glib-HAL"
+}

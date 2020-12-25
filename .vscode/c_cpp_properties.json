@@ -1,0 +1,78 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/Marlin",
+                "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/TMC26XStepper",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/SailfishLCD",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/LiquidTWI2_ID6063",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/SlowSoftI2CMaster_ID7005",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/Arduino-L6470_ID2404/src",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/U8glib-HAL_ID1932/src",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/Adafruit NeoPixel_ID28",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/Adafruit MAX31865 library_ID1253",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/TMCStepper/src",
+                "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/LiquidCrystal_ID136",
+                "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/Petr/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/Petr/.platformio/packages/framework-arduino-avr/variants/mega",
+                "C:/Users/Petr/.platformio/lib/TM1637_ID258",
+                "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/Petr/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/Marlin",
+                    "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/TMC26XStepper",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/SailfishLCD",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/LiquidTWI2_ID6063",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/SlowSoftI2CMaster_ID7005",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/Arduino-L6470_ID2404/src",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/U8glib-HAL_ID1932/src",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/Adafruit NeoPixel_ID28",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/Adafruit MAX31865 library_ID1253",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/TMCStepper/src",
+                    "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "d:/Projekty/Firmware 3D printer/Marlin FW/__Marlin bugfix-2.0.x 16-7-2020_/DeVeliX/.pio/libdeps/mega2560/LiquidCrystal_ID136",
+                    "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/Petr/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/Petr/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "C:/Users/Petr/.platformio/lib/TM1637_ID258",
+                    "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/Petr/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50003",
+                "ARDUINO_AVR_MEGA2560",
+                "__MARLIN_FIRMWARE__",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/Petr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

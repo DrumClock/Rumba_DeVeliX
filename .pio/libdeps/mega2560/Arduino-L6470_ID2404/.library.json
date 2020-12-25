@@ -1,0 +1,36 @@
+{
+    "name": "Arduino-L6470", 
+    "repository": {
+        "url": "https://github.com/ameyer/Arduino-L6470.git", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "atmelavr", 
+        "atmelsam"
+    ], 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "0.8.0", 
+    "authors": [
+        {
+            "maintainer": true, 
+            "name": "Adam Meyer", 
+            "url": "http://adam-meyer.com", 
+            "email": "sternmeyer@gmail.com"
+        }, 
+        {
+            "maintainer": false, 
+            "name": "Scott Lahteine", 
+            "url": "http://www.thinkyhead.com", 
+            "email": "L6470@thinkyhead.com"
+        }
+    ], 
+    "keywords": [
+        "driver", 
+        "stepper", 
+        "l6470"
+    ], 
+    "id": 2404, 
+    "description": "L6470 stepper driver library"
+}
