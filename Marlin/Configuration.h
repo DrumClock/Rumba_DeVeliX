@@ -1148,7 +1148,7 @@
 #define Y_MIN_POS -20
 #define Z_MIN_POS 0
 #define X_MAX_POS 335 //X_BED_SIZE
-#define Y_MAX_POS 330 //Y_BED_SIZE
+#define Y_MAX_POS 315 //Y_BED_SIZE
 #define Z_MAX_POS 275
 
 /**

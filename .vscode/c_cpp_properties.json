@@ -1,10 +1,12 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
 {
     "configurations": [
         {
-            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
-        },
-        {
-            "name": "Win32",
+            "name": "PlatformIO",
             "includePath": [
                 "d:/Projekty/GitHub/Rumba_DeVeliX/Marlin",
                 "C:/Users/Petr/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -55,7 +57,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=50003",
+                "PLATFORMIO=50100",
                 "ARDUINO_AVR_MEGA2560",
                 "__MARLIN_FIRMWARE__",
                 "F_CPU=16000000L",
@@ -64,7 +66,6 @@
                 "__AVR_ATmega2560__",
                 ""
             ],
-            "intelliSenseMode": "gcc-x64",
             "cStandard": "c11",
             "cppStandard": "c++11",
             "compilerPath": "C:/Users/Petr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
